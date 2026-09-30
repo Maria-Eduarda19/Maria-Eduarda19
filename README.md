@@ -15,9 +15,6 @@
 ✧˖°🌿✧──────────────────────────────────────────✧🌿°˖✧
 
 
-### 🎧 Minha Trilha Sonora de Dev
-[![Spotify](https://shields.io)](https://spotify.com)
-
 ✨ Mande um vaga-lume (E-mail): maria.ribeiro215@aluno.educa.go.gov.br
 
 💼 Meu LinkedIn Profissional: [Link]
